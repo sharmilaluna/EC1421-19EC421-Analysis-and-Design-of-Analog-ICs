@@ -41,10 +41,12 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
+<img width="1376" height="652" alt="image" src="https://github.com/user-attachments/assets/9cb59fcc-81e4-445d-876b-838bcb20501e" />
 
 
 
-## MODEL GRAPH
+## MODEL GRAPH<img width="1404" height="1216" alt="image" src="https://github.com/user-attachments/assets/f112e339-8fdd-4424-9f0f-57a4bdc9edac" />
+
 
 
 
@@ -57,11 +59,15 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 4. The output voltage is obtained in the CRO and the input and output voltage waveforms 
 are plotted in a graph sheet.
 
-## TABULATION:
+## TABULATION:<img width="1594" height="618" alt="image" src="https://github.com/user-attachments/assets/13b83877-88ec-4e93-8d29-14268064f455" />
 
 
 
-## GRAPH:
+
+## GRAPH:<img width="1144" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ceb5f57-f2dd-4fd8-befb-bbcec727e7ba" />
+<img width="1600" height="887" alt="image" src="https://github.com/user-attachments/assets/23780a16-0b8d-4e08-ab66-0006107765c7" />
+
+
 
 
 
