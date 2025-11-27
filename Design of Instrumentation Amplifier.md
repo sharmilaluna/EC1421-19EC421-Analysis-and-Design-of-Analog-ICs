@@ -28,9 +28,11 @@ performance.
  The output of Instumentation amplifier is given by 
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
-## CIRCUIT DIAGRAM: 
+## CIRCUIT DIAGRAM: <img width="1599" height="1008" alt="image" src="https://github.com/user-attachments/assets/efcf950b-ebdd-4b8c-b3d9-4ac38008a832" />
 
-## MODEL GRAPH:
+
+## MODEL GRAPH:<img width="1564" height="787" alt="image" src="https://github.com/user-attachments/assets/ae4c412e-a8a7-4557-9cf5-602da4e0e31f" />
+
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -46,11 +48,15 @@ input value of V1 and V2.
 7. The output voltage is obtained in the Multimeter and the input and output voltage 
 waveforms are plotted in a graph sheet.
 
-## TABULATION:
+## TABULATION:<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/ecdad1ab-31f7-469f-b38a-87a721c09048" />
+
 
 ## CALCULATIONS:
 
-## GRAPH:
+## GRAPH:<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/adab2f4a-0ab0-4d73-a627-e8527c51bfb9" />
+<img width="1599" height="731" alt="image" src="https://github.com/user-attachments/assets/3407883e-5567-4a07-891a-07aa0d5146af" />
+
+
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
