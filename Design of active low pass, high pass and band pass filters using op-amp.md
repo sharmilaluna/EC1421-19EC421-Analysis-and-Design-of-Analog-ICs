@@ -93,9 +93,10 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## TABULATION:
 ## LOW_PASS<img width="1280" height="1090" alt="image" src="https://github.com/user-attachments/assets/b42bb819-8676-4e90-90a0-cc00e9cad32f" />
 
-## HIGH-PASS<img width="1387" height="837" alt="image" src="https://github.com/user-attachments/assets/1ee50c87-2ece-4de1-8110-b85dc9a47c95" />
+## HIGH-PASS<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/95d35fa0-5c10-4e84-848d-d6025a2f6d66" />
 
-## BAND-PASS<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/95d35fa0-5c10-4e84-848d-d6025a2f6d66" />
+
+## BAND-PASS<img width="1387" height="837" alt="image" src="https://github.com/user-attachments/assets/1ee50c87-2ece-4de1-8110-b85dc9a47c95" />
 
 ## CALCULATIONS:
 ## LOW_PASS
@@ -105,9 +106,10 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## HIGH-PASS
 ## BAND-PASS
 ## GRAPH:
-## LOW_PASS<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/0226175c-18f1-495b-bcac-faa70b8c6a93" />
+## LOW_PASS<img width="918" height="1280" alt="image" src="https://github.com/user-attachments/assets/e07d017d-c761-4d24-bf6d-f22532399c5a" />
 
-## HIGH-PASS<img width="918" height="1280" alt="image" src="https://github.com/user-attachments/assets/e07d017d-c761-4d24-bf6d-f22532399c5a" />
+
+## HIGH-PASS<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/0226175c-18f1-495b-bcac-faa70b8c6a93" />
 
 ## BAND-PASS<img width="1115" height="1599" alt="image" src="https://github.com/user-attachments/assets/aa776139-4f96-4cce-97e6-7e5dfeb6fc2c" />
 
