@@ -43,7 +43,8 @@ band pass filter depends on the order of high pass and low pass sections.
 
 
 ## MODEL GRAPH:
-## LOW_PASS<img width="1280" height="536" alt="image" src="https://github.com/user-attachments/assets/d2449098-e926-4dba-bf86-f4b24229dcb0" />
+## LOW_PASS<img width="1280" height="490" alt="image" src="https://github.com/user-attachments/assets/cbf7dac8-d4f0-4b6b-9e99-4757f3fa38d2" />
+
 
 ## HIGH-PASS<img width="1280" height="517" alt="image" src="https://github.com/user-attachments/assets/3d923ef6-5bb9-4429-b2d9-cef20d4611a4" />
 
@@ -90,11 +91,11 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                 Ri = Rf 
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
-## LOW_PASS<img width="1280" height="1090" alt="image" src="https://github.com/user-attachments/assets/84a09f4e-a9d3-49cd-846a-ceb9a0b6032a" />
+## LOW_PASS<img width="1280" height="1090" alt="image" src="https://github.com/user-attachments/assets/b42bb819-8676-4e90-90a0-cc00e9cad32f" />
 
-## HIGH-PASS<img width="1115" height="1599" alt="image" src="https://github.com/user-attachments/assets/8141151b-6024-4d2d-beb5-99dfd4d46f2b" />
+## HIGH-PASS<img width="1387" height="837" alt="image" src="https://github.com/user-attachments/assets/1ee50c87-2ece-4de1-8110-b85dc9a47c95" />
 
-## BAND-PASS<img width="1387" height="837" alt="image" src="https://github.com/user-attachments/assets/5756d702-5915-430e-b921-526e064bb56b" />
+## BAND-PASS<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/95d35fa0-5c10-4e84-848d-d6025a2f6d66" />
 
 ## CALCULATIONS:
 ## LOW_PASS
@@ -104,11 +105,12 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## HIGH-PASS
 ## BAND-PASS
 ## GRAPH:
-## LOW_PASS<img width="918" height="1280" alt="image" src="https://github.com/user-attachments/assets/db64f056-b535-4e0c-840b-325465b4f3d2" />
+## LOW_PASS<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/0226175c-18f1-495b-bcac-faa70b8c6a93" />
 
-## HIGH-PASS<img width="1280" height="789" alt="image" src="https://github.com/user-attachments/assets/addcc16d-32cf-41f7-befd-365cab7fe190" />
+## HIGH-PASS<img width="918" height="1280" alt="image" src="https://github.com/user-attachments/assets/e07d017d-c761-4d24-bf6d-f22532399c5a" />
 
-## BAND-PASS<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/685e8801-66a8-4cec-9e15-d61388b0ee35" />
+## BAND-PASS<img width="1115" height="1599" alt="image" src="https://github.com/user-attachments/assets/aa776139-4f96-4cce-97e6-7e5dfeb6fc2c" />
+
 <img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/99411e65-1187-47fa-9120-c295b15efc5d" />
 
  ## RESULTS:
