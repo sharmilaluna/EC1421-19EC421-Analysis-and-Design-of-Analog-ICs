@@ -19,11 +19,14 @@ time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is 
 obtained.
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM:<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/8571213a-1e58-4de7-a387-45bbceffe04b" />
 
 
 
-## OUTPUT GRAPH:
+
+## OUTPUT GRAPH:<img width="1280" height="694" alt="image" src="https://github.com/user-attachments/assets/fb9d9e03-4c60-41d5-8244-3457354f76e9" />
+<img width="1280" height="556" alt="image" src="https://github.com/user-attachments/assets/4a1a3600-41c5-4683-bbca-9adb6f401406" />
+
 
 
 ## RESULT:
